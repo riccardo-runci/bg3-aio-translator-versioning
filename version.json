@@ -1,5 +1,15 @@
 {
   "versionNumber": "1.1.1",
   "versionCode": 16,
-  "download_link": "https://www.google.com"
+  "download_link": "https://www.google.com",
+  "changelog": [
+    {
+      "title": "major fix",
+      "description": "best fix of the world"
+    },
+    {
+      "title": "minor fix",
+      "description": "boring things"
+    }
+  ]
 }
