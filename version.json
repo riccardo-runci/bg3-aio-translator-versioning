@@ -1,16 +1,16 @@
 {
   "application": {
-    "versionNumber": "1.1.1",
+    "versionNumber": "0.7.0",
     "versionCode": 12,
     "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.7.0%2B12%2Fbg3_aio_mod_translator_0_7_0.zip?alt=media&token=407b84d6-e2c6-4bf4-8ee6-1e536ac92627",
     "changelog": [
       {
-        "title": "major fix",
-        "description": "best fix of the world"
+        "title": "Chat GPT Support",
+        "description": "New Chat GPT support as translation service"
       },
       {
-        "title": "minor fix",
-        "description": "boring things"
+        "title": "New tool update integration",
+        "description": "Now the tool update are inside the application"
       }
     ]
   },
@@ -19,14 +19,7 @@
     "versionCode": 1,
     "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/updaters%2F0.0.1%2B1%2Fbg3_aio_updater_0_0_1.zip?alt=media&token=c6c96ea9-3e07-4ecf-9cb2-efc3b74729aa",
     "changelog": [
-      {
-        "title": "major fix",
-        "description": "best fix of the world"
-      },
-      {
-        "title": "minor fix",
-        "description": "boring things"
-      }
+      
     ]
   }
 }
