@@ -6,7 +6,7 @@
     "changelog": [
       {
         "title": "Previw of file content",
-        "description": "Now the user can show (and exlude or include) the content of translated mod"
+        "description": "Now the user can check (and exlude or include) the content of translated mod before packaging"
       },
       {
         "title": "Translated files fix",
