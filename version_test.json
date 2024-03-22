@@ -15,8 +15,8 @@
     ]
   },
   "updater": {
-    "versionNumber": "0.0.1",
-    "versionCode": 1,
+    "versionNumber": "0.0.2",
+    "versionCode": 2,
     "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/updaters%2F0.0.1%2B1%2Fbg3_aio_updater_0_0_1.zip?alt=media&token=c6c96ea9-3e07-4ecf-9cb2-efc3b74729aa",
     "changelog": [
       
