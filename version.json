@@ -17,7 +17,7 @@
   "updater": {
     "versionNumber": "1.1.1",
     "versionCode": 16,
-    "download_link": "https://www.google.com",
+    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/updater_data.zip?alt=media&token=f7a0a593-ea29-4791-b010-19dcb93d1636",
     "changelog": [
       {
         "title": "major fix",
