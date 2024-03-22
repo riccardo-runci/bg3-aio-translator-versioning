@@ -2,7 +2,7 @@
   "application": {
     "versionNumber": "0.7.0",
     "versionCode": 12,
-    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.7.0%2B12%2Fbg3_aio_mod_translator_0_7_0.zip?alt=media&token=407b84d6-e2c6-4bf4-8ee6-1e536ac92627",
+    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.7.0%2B12%2Fbg3_aio_translator_0_7_0.zip?alt=media&token=74c6062b-da6b-43cf-8a87-c5a2d238528c",
     "changelog": [
       {
         "title": "Chat GPT Support",
