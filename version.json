@@ -1,23 +1,23 @@
 {
   "application": {
-    "versionNumber": "0.7.0",
-    "versionCode": 12,
-    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.7.0%2B12%2Fbg3_aio_translator_0_7_0.zip?alt=media&token=74c6062b-da6b-43cf-8a87-c5a2d238528c",
+    "versionNumber": "0.7.1",
+    "versionCode": 13,
+    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.7.1%2B13%2FBG3_AIO_Mod_Translator_0_7_1.zip?alt=media&token=33d5f130-98e3-4d6c-9b9f-db2dd5da87ec",
     "changelog": [
       {
-        "title": "Chat GPT Support",
-        "description": "New Chat GPT support as translation service"
+        "title": "Previw of file content",
+        "description": "Now the user can show (and exlude or include) the content of translated mod"
       },
       {
-        "title": "New tool update integration",
-        "description": "Now the tool update are inside the application"
+        "title": "Translated files fix",
+        "description": "Fixed the problem that cause multiple .loca files in the translated folder"
       }
     ]
   },
   "updater": {
-    "versionNumber": "0.0.1",
-    "versionCode": 1,
-    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/updaters%2F0.0.1%2B1%2Fbg3_aio_updater_0_0_1.zip?alt=media&token=c6c96ea9-3e07-4ecf-9cb2-efc3b74729aa",
+    "versionNumber": "0.0.2",
+    "versionCode": 2,
+    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/updaters%2F0.0.2%2B2%2Fbg3_updater_0_0_2.zip?alt=media&token=677fbe4b-c0be-4d66-96de-f2f91717a6e3",
     "changelog": [
       
     ]
