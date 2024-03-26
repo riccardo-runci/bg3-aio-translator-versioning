@@ -11,6 +11,10 @@
       {
         "title": "Enanched translation preview",
         "description": "Better translation preview before create the translated package, with meta, translated files and package content editor"
+      },
+      {
+        "title": "BG3 Mod Manager integration",
+        "description": "Integration of BG3 Mod Manager to keep track of your load order and your translated mods in load order"
       }
     ]
   },
