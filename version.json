@@ -1,16 +1,16 @@
 {
   "application": {
     "versionNumber": "0.7.1",
-    "versionCode": 13,
-    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.7.1%2B13%2FBG3_AIO_Mod_Translator_0_7_1.zip?alt=media&token=33d5f130-98e3-4d6c-9b9f-db2dd5da87ec",
+    "versionCode": 14,
+    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.8.0%2B14%2FBG3_AIO_Mod_Translator_0_8_0.zip?alt=media&token=28122919-cb6d-4113-9752-42961e1cbac4",
     "changelog": [
       {
-        "title": "Previw of file content",
-        "description": "Now the user can check (and exlude or include) the content of translated mod before packaging"
+        "title": "New UI",
+        "description": "Improved UI/UX for better user experience"
       },
       {
-        "title": "Translated files fix",
-        "description": "Fixed the problem that cause multiple .loca files in the translated folder"
+        "title": "Enanched translation preview",
+        "description": "Better translation preview before create the translated package, with meta, translated files and package content editor"
       }
     ]
   },
