@@ -1,20 +1,20 @@
 {
   "application": {
-    "versionNumber": "0.8.0",
-    "versionCode": 14,
-    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.8.0%2B14%2FBG3_AIO_Mod_Translator_0_8_0.zip?alt=media&token=28122919-cb6d-4113-9752-42961e1cbac4",
+    "versionNumber": "0.8.2",
+    "versionCode": 15,
+    "download_link": "https://firebasestorage.googleapis.com/v0/b/bg3-mod-translator.appspot.com/o/applications%2F0.8.2%2B15%2FBG3_AIO_Mod_Translator_0_8_2.zip?alt=media&token=944b1485-87d0-4d13-89d5-cf1c54171e36",
     "changelog": [
       {
-        "title": "New UI",
-        "description": "Improved UI/UX for better user experience"
+        "title": "Localization",
+        "description": "The application now support localization (en and it)"
       },
       {
-        "title": "Enanched translation preview",
-        "description": "Better translation preview before create the translated package, with meta, translated files and package content editor"
+        "title": "Dictionary",
+        "description": "Now user can save some sentences into a personal dictionary to use it during translation"
       },
       {
-        "title": "BG3 Mod Manager integration",
-        "description": "Integration of BG3 Mod Manager to keep track of your load order and your translated mods in load order"
+        "title": "Bug fix",
+        "description": "Some bug fix"
       }
     ]
   },
